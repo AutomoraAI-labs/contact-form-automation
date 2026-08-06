@@ -1,1 +1,20 @@
 workflow.json
+{
+  "name": "My workflow",
+  "nodes": [],
+  "pinData": {},
+  "connections": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  },
+  "versionId": "e06a9600-d9ab-4ce4-b02b-d720ceade401",
+  "meta": {
+    "instanceId": "fe7ab48990b996cc7726f5117de3d9ef68a66479af2e2f1b2867773876e3dc5f"
+  },
+  "nodeGroups": [],
+  "id": "WMupVSi7Mu41LOsg",
+  "tags": []
+}
