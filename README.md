@@ -63,3 +63,14 @@ This workflow automatically:
 ## 👨‍💻 Author
 
 Automora AI Labs
+---
+
+## 📸 Workflow
+
+![Workflow](contact-form-automation%20workflow.png)
+
+---
+
+## 📧 Email Notification
+
+![Email](Email%20data%20results.png)
